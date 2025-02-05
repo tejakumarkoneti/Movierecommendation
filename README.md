@@ -14,7 +14,11 @@ This is a content-based Movie Recommendation System built using Python, Pandas, 
 
 🛠 Technologies Used
 
-📌 Python (Programming Language)📌 Pandas (Data Manipulation)📌 NumPy (Numerical Computing)📌 NLTK (Natural Language Processing)📌 Scikit-learn (Machine Learning - CountVectorizer, Cosine Similarity)
+📌 Python (Programming Language)
+📌 Pandas (Data Manipulation)
+📌 NumPy (Numerical Computing)
+📌 NLTK (Natural Language Processing)
+📌 Scikit-learn (Machine Learning - CountVectorizer, Cosine Similarity)
 
 🚀 Installation & Setup
 
@@ -59,20 +63,5 @@ python movie_recommendation.py
 │── 📄 README.md
 │── 📄 requirements.txt
 
-🌍 Deployment
-
-You can deploy this project on GitHub using the following commands:
-
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/movie-recommendation.git
-git push -u origin main
-
-📜 License
-
-This project is open-source and free to use.
-
-👨‍💻 Author: Your Name
+👨‍💻 Author: Teja Kumar
 
